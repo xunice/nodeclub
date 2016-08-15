@@ -35,7 +35,18 @@ Nodeclub 是使用 **Node.js** 和 **MongoDB** 开发的社区系统，界面优
 6. `$ node app.js`
 7. visit `http://localhost:3000`
 8. done!
+
+
+启动MongoDB
+sudo mongod
+启动redis
+cd redis-3.2.3/
+cd src
+./redis-server
+
 ```
+
+
 
 ## 测试
 
